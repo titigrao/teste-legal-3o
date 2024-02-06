@@ -5,6 +5,7 @@
 
 body{
     background-image: linear-gradient(#000000,#ffcbdb);
+    background-repeat: no-repeat;
 }
 
 .cabecalho{
