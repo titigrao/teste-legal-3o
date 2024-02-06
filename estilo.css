@@ -7,8 +7,13 @@ body{
     background: rgb(0,0,0);
     background: linear-gradient(108deg, rgba(0,0,0,1) 0%, rgba(255,203,219,1) 100%);
 }
+
 .cabecalho{
     display: flex;
     background-color: #ffcbdb;
     justify-content: space-around;
+}
+
+.logobp{
+    width: 10%;
 }
