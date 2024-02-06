@@ -1,11 +1,11 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0%;
 }
 
 body{
         background: rgb(255,203,219);
-        background: linear-gradient(top to bottom, rgba(255,203,219,1) 22%, rgba(0,0,0,1) 100%);
+        background: linear-gradient(0deg, rgba(255,203,219,1) 22%, rgba(0,0,0,1) 100%);
 }
 .cabecalho{
     display: flex;
