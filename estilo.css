@@ -1,5 +1,21 @@
+.listadoclaudio{
+    display: flex;
+}
 
+.t-d-c-1{
+    font-style: italic;
+    color: blanchedalmond;
+    font-size: 300%;
+}
 
-.teste-do-claudio-1{
-    font-size: 200%;
+.t-d-c-2{
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 250%;
+}
+
+.t-d-c-3{
+    color:chartreuse
+    font-style: oblique;
+    font-size: 250%;
 }
