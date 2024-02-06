@@ -1,26 +1,5 @@
-.body{
-    background-image: linear-gradient(#000000,#ffcdbf);
-}
-
-
-listadoclaudio{
-    display: flex;
-}
-
-.t-d-c-1{
-    font-style: italic;
-    color: blanchedalmond;
-    font-size: 300%;
-}
-
-.t-d-c-2{
-    color: blueviolet;
-    font-style: oblique;
-    font-size: 250%;
-}
-
-.t-d-c-3{
-    color:chartreuse;
-    font-size: 250%;
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(241,126,161,1) 48%, rgba(255,203,219,1) 100%);
 }
 
