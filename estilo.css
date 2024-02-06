@@ -18,3 +18,8 @@ body{
 .logobp{
     width: 10%;
 }
+
+lista-cabecalho{
+    display: flex;
+    font-size: large;
+}
