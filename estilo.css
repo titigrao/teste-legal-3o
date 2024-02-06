@@ -3,5 +3,8 @@ body{
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,203,219,1) 82%);
 }
 .cabecalho{
+    display: flex;
     background-color: #ffcbdb;
+    justify-content: space-around;
+    padding: 24px 0;
 }
